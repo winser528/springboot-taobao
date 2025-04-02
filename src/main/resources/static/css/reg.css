@@ -1,0 +1,235 @@
+.loginleft {
+    MARGIN-TOP: 40px;
+    WIDTH: 565px;
+    BACKGROUND: url(../image/login_019.jpg) no-repeat;
+    HEIGHT: 307px
+}
+
+.loginleft P {
+    LINE-HEIGHT: 24px;
+    PADDING-LEFT: 20px;
+    COLOR: #fff;
+    FONT-SIZE: 14px;
+    PADDING-TOP: 50px
+}
+
+.input1 {
+    BORDER-BOTTOM: #bbbbbb 1px solid;
+    BORDER-LEFT: #bbbbbb 1px solid;
+    LINE-HEIGHT: 24px;
+    PADDING-LEFT: 10px;
+    WIDTH: 206px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    HEIGHT: 24px;
+    COLOR: #666666;
+    FONT-SIZE: 14px;
+    BORDER-TOP: #bbbbbb 1px solid;
+    BORDER-RIGHT: #bbbbbb 1px solid
+}
+
+.input2 {
+    WIDTH: 70px
+}
+
+.clear {
+    CLEAR: both
+}
+
+.box {
+    MARGIN: 20px auto 0px;
+    WIDTH: 980px
+}
+
+.boxL {
+    WIDTH: 565px;
+    FLOAT: left
+}
+
+.boxL .logo1 {
+    PADDING-BOTTOM: 23px
+}
+
+.boxL UL {
+    PADDING-LEFT: 10px
+}
+
+.boxL UL LI {
+    PADDING-BOTTOM: 10px;
+    PADDING-LEFT: 10px;
+    WIDTH: 160px;
+    PADDING-RIGHT: 10px;
+    FLOAT: left;
+    COLOR: #888;
+    PADDING-TOP: 10px
+}
+
+.boxL UL .li2 {
+    PADDING-BOTTOM: 10px;
+    PADDING-LEFT: 0px;
+    WIDTH: 1px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 10px
+}
+
+.boxL UL LI STRONG {
+    COLOR: #901b1b;
+    FONT-WEIGHT: bold
+}
+
+.boxR {
+    MARGIN-TOP: 50px;
+    WIDTH: 415px;
+    FLOAT: left;
+    HEIGHT: auto
+}
+
+.boxR .R1 {
+    TEXT-ALIGN: right;
+    WIDTH: 373px;
+    BACKGROUND: url(../image/login_06.gif) no-repeat;
+    HEIGHT: 41px
+}
+
+.boxR .R1 UL LI {
+    PADDING-LEFT: 10px;
+    WIDTH: 52px;
+    FLOAT: right;
+    PADDING-TOP: 5px
+}
+
+.boxR .R2 {
+    BORDER-LEFT: #b5b5b5 1px solid;
+    WIDTH: 370px;
+    HEIGHT: 196px;
+    BORDER-RIGHT: #b5b5b5 1px solid
+}
+
+.boxR .R3 {
+    TEXT-ALIGN: right;
+    PADDING-BOTTOM: 15px;
+    PADDING-LEFT: 15px;
+    WIDTH: 343px;
+    PADDING-RIGHT: 15px;
+    BACKGROUND: url(../image/login_14.gif) no-repeat;
+    HEIGHT: 101px;
+    PADDING-TOP: 15px
+}
+
+.boxR .R3 P {
+    TEXT-ALIGN: left;
+    COLOR: #888
+}
+
+.boxR .R3 P STRONG {
+    COLOR: #333
+}
+
+.tit {
+    WIDTH: 980px;
+    BACKGROUND: url(../image/zhuce_03.gif) no-repeat;
+    HEIGHT: 41px
+}
+
+.tit2 {
+    WIDTH: 980px;
+    BACKGROUND: url(../image/zhuce_03.gif) no-repeat;
+    HEIGHT: 53px
+}
+
+.tit2 {
+    BACKGROUND: url(../image/zhuce_032.gif) no-repeat
+}
+
+.tit SPAN {
+    LINE-HEIGHT: 53px;
+    PADDING-RIGHT: 15px;
+    FLOAT: right;
+    COLOR: #fff
+}
+
+.tit SPAN A {
+    COLOR: #fff
+}
+
+.tit SPAN A:hover {
+    COLOR: #ffff00
+}
+
+.con {
+    BORDER-LEFT: #bc141a 1px solid;
+    PADDING-BOTTOM: 30px;
+    PADDING-LEFT: 0px;
+    WIDTH: 978px;
+    PADDING-RIGHT: 0px;
+    BORDER-RIGHT: #bc141a 1px solid;
+    PADDING-TOP: 30px
+}
+
+.con TABLE TD {
+    PADDING-BOTTOM: 5px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 0px
+}
+
+.con H3 {
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: normal
+}
+
+.red {
+    COLOR: #ff0000
+}
+
+.con .Button1 {
+    LINE-HEIGHT: 34px;
+    BACKGROUND: url(../image/csmm_02.gif) no-repeat center 50%;
+    HEIGHT: 34px;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bold
+}
+
+.con .Button1 A {
+    COLOR: #fff
+}
+
+.con H2 {
+    TEXT-ALIGN: center;
+    MARGIN-BOTTOM: 20px;
+    FONT-SIZE: 16px;
+    FONT-WEIGHT: bold
+}
+
+.con H4 {
+    MARGIN-TOP: 10px;
+    MARGIN-BOTTOM: 5px;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bold
+}
+
+.con P {
+    PADDING-BOTTOM: 5px;
+    TEXT-INDENT: 24px
+}
+
+.con OL {
+    PADDING-BOTTOM: 5px;
+    TEXT-INDENT: 24px
+}
+
+.con .ol2 {
+    PADDING-BOTTOM: 10px;
+    TEXT-INDENT: 48px
+}
+
+.center {
+    TEXT-ALIGN: center
+}
+
+.xieyi {
+    PADDING-BOTTOM: 30px;
+    PADDING-LEFT: 30px;
+    WIDTH: 918px;
+    PADDING-RIGHT: 30px;
+    PADDING-TOP: 30px
+}

@@ -1,0 +1,69 @@
+.helpbox {
+	MARGIN: 20px auto 0px; WIDTH: 980px; CLEAR: both
+}
+.left {
+	WIDTH: 190px; FLOAT: left; MARGIN-RIGHT: 20px
+}
+.helpUL {
+	BORDER-BOTTOM: #dbdbd8 1px solid; BORDER-LEFT: #dbdbd8 1px solid; PADDING-BOTTOM: 10px; WIDTH: 188px; BORDER-TOP: #dbdbd8 1px; BORDER-RIGHT: #dbdbd8 1px solid
+}
+.helpUL H2 {
+	BORDER-BOTTOM: #dbdbd8 1px solid; LINE-HEIGHT: 29px; LIST-STYLE-TYPE: none; PADDING-LEFT: 40px; WIDTH: 148px; MARGIN-BOTTOM: 5px; BACKGROUND: url(../image/helpul_0a.gif) no-repeat; FLOAT: left; HEIGHT: 29px; COLOR: #992205; FONT-SIZE: 14px; BORDER-TOP: #dbdbd8 1px solid; CURSOR: pointer; FONT-WEIGHT: bold
+}
+.helpUL H2 .select {
+	BORDER-BOTTOM: #dbdbd8 1px solid; LINE-HEIGHT: 29px; PADDING-LEFT: 40px; MARGIN-BOTTOM: 5px; BACKGROUND: url(../image/helpul_0a.gif) no-repeat; HEIGHT: 29px; COLOR: #992205; FONT-SIZE: 14px; BORDER-TOP: #dbdbd8 1px solid; FONT-WEIGHT: bold
+}
+.helpUL DIV LI {
+	LIST-STYLE-TYPE: none; WIDTH: 188px; FLOAT: left; HEIGHT: 25px
+}
+.helpUL DIV LI A {
+	LINE-HEIGHT: 25px; LIST-STYLE-TYPE: none; PADDING-LEFT: 40px; BACKGROUND: url(../image/iconi_01.gif) no-repeat 25px 4px; HEIGHT: 25px; COLOR: #555; TEXT-DECORATION: none
+}
+.helpUL DIV LI A:hover {
+	LINE-HEIGHT: 25px; HEIGHT: 25px; COLOR: #ff6600; TEXT-DECORATION: underline
+}
+.right {
+	BORDER-BOTTOM: #efd5ba 1px solid; BORDER-LEFT: #efd5ba 1px solid; LINE-HEIGHT: 22px; WIDTH: 768px; FLOAT: left; COLOR: #555; BORDER-TOP: #efd5ba 1px solid; BORDER-RIGHT: #efd5ba 1px solid
+}
+.right .helptit {
+	BORDER-BOTTOM: #efd5ba 1px solid; LINE-HEIGHT: 32px; PADDING-LEFT: 10px; BACKGROUND: url(../image/helpVIP_02.gif) repeat-x; HEIGHT: 32px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.HelpCon {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 768px; PADDING-RIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.HelpCon P {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 20px; WIDTH: 728px; PADDING-RIGHT: 20px; PADDING-TOP: 5px
+}
+.HelpCon P IMG {
+	MARGIN: 10px 0px
+}
+.HelpCon STRONG {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.red {
+	COLOR: #d20000
+}
+.HelpCon .Vip1 {
+	PADDING-LEFT: 20px; PADDING-RIGHT: 250px; BACKGROUND: url(../image/helpVIP_03.jpg) no-repeat; HEIGHT: 95px; PADDING-TOP: 135px
+}
+.HelpCon .Vip2 {
+	TEXT-ALIGN: center; MARGIN: 20px auto
+}
+.HelpCon .Vip3 {
+	BORDER-BOTTOM: #d6cbbb 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #d6cbbb 1px solid; MARGIN: 20px 30px; WIDTH: 706px; BORDER-TOP: #d6cbbb 1px solid; BORDER-RIGHT: #d6cbbb 1px solid
+}
+.HelpCon .Vipbg1 {
+	TEXT-ALIGN: right; WIDTH: 686px; PADDING-RIGHT: 20px; BACKGROUND: url(../image/helpVIP_23.gif) no-repeat; HEIGHT: 196px; PADDING-TOP: 30px
+}
+.HelpCon .Vipbg2 {
+	BACKGROUND: url(../image/helpVIP_26.gif) no-repeat; HEIGHT: auto
+}
+.HelpCon .Vipbg2 SPAN {
+	MARGIN-TOP: 90px; DISPLAY: block; MARGIN-BOTTOM: 20px; MARGIN-RIGHT: 30px
+}
+.HelpCon A {
+	COLOR: #d20000; TEXT-DECORATION: underline
+}
+.HelpCon A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}

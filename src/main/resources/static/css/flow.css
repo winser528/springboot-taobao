@@ -1,0 +1,66 @@
+.red {
+	COLOR: #b50000
+}
+.cart_img {
+	POSITION: relative; TEXT-ALIGN: right; WIDTH: 80px; HEIGHT: 62px; OVERFLOW: hidden
+}
+.cart_img .img {
+	BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #eee 1px solid; WIDTH: 60px; HEIGHT: 60px; BORDER-TOP: #eee 1px solid; BORDER-RIGHT: #eee 1px solid
+}
+.flow {
+	MARGIN: 10px auto; WIDTH: 960px; HEIGHT: 38px; OVERFLOW: hidden
+}
+.flow1 {
+	BACKGROUND: url(../image/flow-step.png) no-repeat left 0px
+}
+.flow2 {
+	BACKGROUND: url(../image/flow-step.png) no-repeat left -40px
+}
+.flow3 {
+	BACKGROUND: url(../image/flow-step.png) no-repeat left -81px
+}
+.price_font {
+	FONT-FAMILY: 'Microsoft Yahei'; FONT-WEIGHT: bold
+}
+.font-14 {
+	FONT-SIZE: 14px
+}
+.font-16 {
+	FONT-SIZE: 16px
+}
+.online-pay-tishi {
+	DISPLAY: none
+}
+.online-pay-tishi P {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 25px; PADDING-LEFT: 50px; PADDING-RIGHT: 20px; BACKGROUND: url(../image/alert-icon.gif) no-repeat left -525px; FONT-SIZE: 14px; PADDING-TOP: 20px
+}
+.tableLists {
+	BORDER-BOTTOM: #e1e1e1 1px; BORDER-LEFT: #e1e1e1 1px solid; WIDTH: 100%; COLOR: #666666; BORDER-TOP: #e1e1e1 1px solid; BORDER-RIGHT: #e1e1e1 1px solid
+}
+.tableLists TH {
+	BORDER-BOTTOM: #e1e1e1 1px solid; LINE-HEIGHT: 30px; BACKGROUND: #eee
+}
+.tableLists TD {
+	BORDER-BOTTOM: #e1e1e1 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e1e1e1 1px; PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BORDER-TOP: #e1e1e1 1px; BORDER-RIGHT: #e1e1e1 1px solid; PADDING-TOP: 5px
+}
+.flow-but {
+	MARGIN: 15px auto
+}
+.hanldea A {
+	COLOR: #1a66b3
+}
+.hanldea A:visited {
+	COLOR: #1a66b3
+}
+.hanldea {
+	LINE-HEIGHT: 20px
+}
+.tableLists1 {
+	BORDER-BOTTOM: #e1e1e1 1px solid; BORDER-LEFT: #e1e1e1 1px solid; WIDTH: 100%; COLOR: #666666; BORDER-TOP: #e1e1e1 1px solid; BORDER-RIGHT: #e1e1e1 1px solid
+}
+.tableLists1 TH {
+	BORDER-BOTTOM: #e1e1e1 1px solid; TEXT-ALIGN: left; LINE-HEIGHT: 30px; PADDING-LEFT: 20px; BACKGROUND: #eee; FONT-WEIGHT: bold
+}
+.tableLists1 TD {
+	BORDER-BOTTOM: #e1e1e1 1px dotted; TEXT-ALIGN: left; BORDER-LEFT: #e1e1e1 1px; PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BORDER-TOP: #e1e1e1 1px; BORDER-RIGHT: #e1e1e1 1px; PADDING-TOP: 5px
+}
